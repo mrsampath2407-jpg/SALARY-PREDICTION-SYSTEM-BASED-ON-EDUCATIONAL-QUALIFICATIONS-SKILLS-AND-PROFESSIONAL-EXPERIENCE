@@ -1,0 +1,25 @@
+SALARY PREDICTION SYSTEM - KEY INSIGHTS
+============================================================
+
+Total Employees: 1000
+Average Salary: ₹2,432,034
+Median Salary: ₹2,445,271
+Salary Range: ₹951,445 - ₹3,688,784
+Salary Std Dev: ₹546,888
+
+Highest avg salary by education: PhD
+Lowest avg salary by education: High School
+Highest avg salary by role: Architect
+Lowest avg salary by role: Analyst
+Highest avg salary by industry: Finance
+Lowest avg salary by industry: Manufacturing
+Highest avg salary by location: Tier-1 City
+Lowest avg salary by location: Tier-2 City
+
+Avg salary (15+ years experience): ₹2,788,456
+Avg salary (<5 years experience): ₹1,744,995
+Experience Premium: 59.8%
+
+Avg salary (10+ skills): ₹2,591,682
+Avg salary (<5 skills): ₹2,281,822
+Skills Premium: 13.6%
